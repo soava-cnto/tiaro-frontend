@@ -70,8 +70,8 @@ body {
 }
 
 .google-logo {
-  width: 20px; /* Taille de l'icône Google */
-  height: 20px;
+  width: 30px; /* Taille de l'icône Google */
+  height: 30px;
 }
 
 .google-login-btn:disabled {
